@@ -75,7 +75,8 @@
           <li><a href="#built-with">K8s</a></li>
           <li><a href="#built-with">Ansible</a></li>
           <li><a href="#built-with">Cloudbee</a></li>
-          <li><a href="#built-with">vigrant</a></li>
+          <li><a href="#built-with">Vagrant</a></li>
+
        </ul>
     </li>
     <li><a href="#contributing">Autom. Solution&Tools</a>
