@@ -1,15 +1,5 @@
-<details><summary>CLICK ME</summary>
-<p>
 
-#### We can hide anything, even code!
-
-```ruby
-   puts "Hello World"
-```
-
-</p>
-</details>
-   # * Infrastructure
+ <details><summary>  # * Infrastructure </summary>
    ## + Linux Filesystems and File Management
    ## + User and System Administration
    ## + Networking 
@@ -21,6 +11,7 @@
    ### - Jenkinsfile
    ### - Dockerfile
    ## + Data virtualization
+ </details>
    # * ASPICE  theory  and V-model 
    # * Devops
    ## + Integration Strategy
