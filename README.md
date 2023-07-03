@@ -1,29 +1,28 @@
-Infrastructure
-    Linux Filesystems and File Management
-    User and System Administration
-     Networking 
-    Security Fundamentals
-    Container Fundamentals
-    Infrastructure as Code
-        YAML
-        Groovy
-        Jenkinsfile
-        Dockerfile
-    Data virtualization
-ASPICE  theory  and V-model 
- Devops
-    Integration Strategy
-        Code   Management
-        Code Structure
-            Gclient 
-            Repo manifest
-        Branch Strategy
-        Migration Strategy
-        Build/Release Strategy
-            Build Schedule
-            Artifact to be release
-        Naming Convention
-        Artifact Storage
+   # Infrastructure
+   ## Linux Filesystems and File Management
+   ## User and System Administration
+   ## Networking 
+   ## Security Fundamentals
+   ## Container Fundamentals
+   ## Infrastructure as Code
+   ### YAML
+   ### Groovy
+   ### Jenkinsfile
+   ### Dockerfile
+   ## Data virtualization
+   # ASPICE  theory  and V-model 
+   # Devops
+   ## Integration Strategy
+   ### Code Management
+   ### Code Structure
+   ####  Gclient 
+   ####  Repo manifest
+   ### Branch Strategy
+   ###  Migration Strategy
+   ### Build/Release Strategy
+   ####   Build Schedule
+   ####   Artifact to be release
+   ####   Artifact Storage
     Integration Test Strategy
         Static Code Analysis
         OSS Scan
